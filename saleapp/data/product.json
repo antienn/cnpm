@@ -1,0 +1,31 @@
+[{
+  "id": 1,
+  "name": "Iphone 15",
+  "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphone15hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290559",
+  "price": "20000000",
+  "category_id": 1
+},{
+  "id": 2,
+  "name": "Iphone 15 pro max",
+  "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphone15prohero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290312",
+  "price": "30000000",
+  "category_id": 1
+},{
+  "id": 3,
+  "name": "Iphone 14",
+  "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphone14-202209?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1693086290654",
+  "price": "30000000",
+  "category_id": 1
+},{
+  "id": 4,
+  "name": "Iphone 13",
+  "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphone13hero-202309?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1692912410963",
+  "price": "30000000",
+  "category_id": 1
+},{
+  "id": 5,
+  "name": "Iphone SE",
+  "url": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/iphone-card-40-iphonese-202203?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1646415838921",
+  "price": "30000000",
+  "category_id": 2
+}]
